@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -34,6 +34,9 @@ function App() {
         <Route exact path="/games" component={GamesPage} />
         <Route path="/resources" component={ResourcePage} />
         <Route path="/" component={Footer} />
+        <Route path="/capstone-istanbul-juniper">
+          <Redirect to="/" />
+        </Route>
       </Router>
     </>
   );
