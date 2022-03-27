@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
+import { HashRouter as Router, Route, Redirect } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
