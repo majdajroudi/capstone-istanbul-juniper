@@ -1,6 +1,6 @@
 {
     "homepage": "http://majdajroudi.github.io/capstone-istanbul-juniper",
-    "name": "safe_place",
+    "name": "juniper",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

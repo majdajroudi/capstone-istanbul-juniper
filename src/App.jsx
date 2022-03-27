@@ -18,10 +18,9 @@ import LoginRegisterPage from "./containers/LoginRegister";
 function App() {
   const { i18n } = useTranslation();
   document.dir = i18n.dir();
-
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Route path="/" component={Navbar} />
         <Route exact path="/" component={Home} />
         <Route path="/about" component={About} />
@@ -34,9 +33,6 @@ function App() {
         <Route exact path="/games" component={GamesPage} />
         <Route path="/resources" component={ResourcePage} />
         <Route path="/" component={Footer} />
-        <Route path="/capstone-istanbul-juniper">
-          <Redirect to="/" />
-        </Route>
       </Router>
     </>
   );
