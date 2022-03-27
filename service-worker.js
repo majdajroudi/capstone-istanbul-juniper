@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/capstone-istanbul-juniper/precache-manifest.b8798872fc870efa0ed63cb880ae8674.js"
+  "/capstone-istanbul-juniper/precache-manifest.d3fc70ee1b1830f329a3bc74cf34c4f9.js"
 );
 
 self.addEventListener('message', (event) => {
