@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/capstone-istanbul-juniper/static/css/main.3ec4e18b.chunk.css",
-    "main.js": "/capstone-istanbul-juniper/static/js/main.1f79fcca.chunk.js",
-    "main.js.map": "/capstone-istanbul-juniper/static/js/main.1f79fcca.chunk.js.map",
+    "main.js": "/capstone-istanbul-juniper/static/js/main.d200bb49.chunk.js",
+    "main.js.map": "/capstone-istanbul-juniper/static/js/main.d200bb49.chunk.js.map",
     "runtime-main.js": "/capstone-istanbul-juniper/static/js/runtime-main.817f0a2b.js",
     "runtime-main.js.map": "/capstone-istanbul-juniper/static/js/runtime-main.817f0a2b.js.map",
     "static/css/2.1e811c7b.chunk.css": "/capstone-istanbul-juniper/static/css/2.1e811c7b.chunk.css",
     "static/js/2.47436594.chunk.js": "/capstone-istanbul-juniper/static/js/2.47436594.chunk.js",
     "static/js/2.47436594.chunk.js.map": "/capstone-istanbul-juniper/static/js/2.47436594.chunk.js.map",
     "index.html": "/capstone-istanbul-juniper/index.html",
-    "precache-manifest.d3fc70ee1b1830f329a3bc74cf34c4f9.js": "/capstone-istanbul-juniper/precache-manifest.d3fc70ee1b1830f329a3bc74cf34c4f9.js",
+    "precache-manifest.f3aa85cb84c9a76bd4f2849b21a6ea0f.js": "/capstone-istanbul-juniper/precache-manifest.f3aa85cb84c9a76bd4f2849b21a6ea0f.js",
     "service-worker.js": "/capstone-istanbul-juniper/service-worker.js",
     "static/css/2.1e811c7b.chunk.css.map": "/capstone-istanbul-juniper/static/css/2.1e811c7b.chunk.css.map",
     "static/css/main.3ec4e18b.chunk.css.map": "/capstone-istanbul-juniper/static/css/main.3ec4e18b.chunk.css.map",
@@ -57,6 +57,6 @@
     "static/css/2.1e811c7b.chunk.css",
     "static/js/2.47436594.chunk.js",
     "static/css/main.3ec4e18b.chunk.css",
-    "static/js/main.1f79fcca.chunk.js"
+    "static/js/main.d200bb49.chunk.js"
   ]
 }
