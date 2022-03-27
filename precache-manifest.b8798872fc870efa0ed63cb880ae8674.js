@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a101ef5980838e414f5091d879360f0d",
+    "revision": "1a810b6080d41bdc8c995921db94397f",
     "url": "/capstone-istanbul-juniper/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capstone-istanbul-juniper/static/css/2.1e811c7b.chunk.css"
   },
   {
-    "revision": "685d1ed77f6c90a0b0c8",
+    "revision": "71f820b03e50047d5cf2",
     "url": "/capstone-istanbul-juniper/static/css/main.3ec4e18b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capstone-istanbul-juniper/static/js/2.54e31822.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "685d1ed77f6c90a0b0c8",
-    "url": "/capstone-istanbul-juniper/static/js/main.782dbab9.chunk.js"
+    "revision": "71f820b03e50047d5cf2",
+    "url": "/capstone-istanbul-juniper/static/js/main.f093cd43.chunk.js"
   },
   {
     "revision": "9cea8ac09f749f4dfa5f",
