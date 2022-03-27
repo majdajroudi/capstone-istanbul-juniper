@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Route, Redirect } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -20,7 +20,7 @@ function App() {
   document.dir = i18n.dir();
   return (
     <>
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router >
         <Route path="/" component={Navbar} />
         <Route exact path="/" component={Home} />
         <Route path="/about" component={About} />
